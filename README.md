@@ -3,12 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syeda-hoorain-ali&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=false#gh-light-mode-only" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=syeda-hoorain-ali&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false#gh-dark-mode-only" height="150" alt="stats graph"  />
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syeda-hoorain-ali&locale=en&hide_title=false&layout=compact&card_width2095&langs_count=5&hide_border=false#gh-light-mode-only" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syeda-hoorain-ali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false#gh-dark-mode-only" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=syeda-hoorain-ali&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syeda-hoorain-ali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ### Tech Stack
@@ -41,9 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-
 </div>
 
 ### Social Media
@@ -62,9 +55,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syeda-hoorain-ali/syeda-hoorain-ali/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syeda-hoorain-ali/syeda-hoorain-ali/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/syeda-hoorain-ali/syeda-hoorain-ali/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
