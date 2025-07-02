@@ -1,17 +1,11 @@
 # Hi 👋! I am Hoorain Ali a Full-stack developer
 
-## About Me
-
-Hi! I'm **Hoorain Ali**, a 13-year-old full-stack developer who loves building real-world apps with great UI/UX and powerful backends.
-
-
 🧠 Learning agentic AI and OpenAI Agents SDK  
 🚀 Deploying apps with AWS  
 🎯 Exploring Python, FastAPI, and pandas  
 🎨 Fan of animations, clean design, and creative tools  
 👩‍💻 Building bots, dashboards, editors — and mentoring too!  
 
-> Learning by doing — every day, every line of code 💪  
 > I believe learning by doing is the best way to grow 💪  
 > Let’s build something magical together!
 
