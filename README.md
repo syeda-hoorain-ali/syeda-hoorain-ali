@@ -1,13 +1,23 @@
-<h2 align="left">Hi 👋! My name is Hoorain Ali and I'm a Full-stack developer</h2>
+# Hi 👋! I am Hoorain Ali a Full-stack developer
 
-###
+## About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syeda-hoorain-ali&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syeda-hoorain-ali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Hi! I'm **Hoorain Ali**, a 13-year-old full-stack developer who loves building real-world apps with great UI/UX and powerful backends.
 
-### Tech Stack
+
+🧠 Learning agentic AI and OpenAI Agents SDK  
+🚀 Deploying apps with AWS  
+🎯 Exploring Python, FastAPI, and pandas  
+🎨 Fan of animations, clean design, and creative tools  
+👩‍💻 Building bots, dashboards, editors — and mentoring too!  
+
+> Learning by doing — every day, every line of code 💪  
+> I believe learning by doing is the best way to grow 💪  
+> Let’s build something magical together!
+
+---
+
+## My Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -39,25 +49,52 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-### Social Media
+<br>
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/syedahoorainali/) &nbsp;
-[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://x.com/syedahorainali) &nbsp;
-[![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discord.com/channels/@me/1110323737984762016) &nbsp;
-[![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@agentia-world) &nbsp;
-[![Medium](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg)](https://medium.com/@syedahoorainali) &nbsp;
-<a href="https://www.instagram.com/syeda_hoorain_ali/" style="display:inline-block;vertical-align:top;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram" width="40" height="40" style="vertical-align:middle;"/>
-</a>
+---
 
-###
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syeda-hoorain-ali&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syeda-hoorain-ali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+
+  <img src="https://streak-stats.demolab.com?user=syeda-hoorain-ali&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+</div>
+
+## 🌐 Social Media
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/syedahoorainali/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/syedahorainali" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+  <a href="https://discord.com/channels/@me/1110323737984762016" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  <a href="https://www.youtube.com/@agentia-world" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+  </a>
+  <a href="https://medium.com/@syedahoorainali" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
+  </a>
+  <a href="https://www.instagram.com/syeda_hoorain_ali/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+</div>
+
+<br>
+
+---
 
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syeda-hoorain-ali/syeda-hoorain-ali/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syeda-hoorain-ali/syeda-hoorain-ali/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/syeda-hoorain-ali/syeda-hoorain-ali/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
